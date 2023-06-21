@@ -1,5 +1,11 @@
 # Test-Cases-Bug-Report
 
+## About My Project
+I have written test cases on Bkash App (Mobile App) module named Send Money and Payment.
+
+## Pre-requisites
+Microsoft Excel
+
 ## What is Test case??
 A test case is a singular set of actions or instructions for a tester to perform that validates a specific aspect of a product 
 or application functionality. If the test fails, the result might be a software defect that the organization can triage.
@@ -15,4 +21,5 @@ The process of writing a test case can also help reveal errors or defects within
 ## Why do we need bug report?
 Bug reporting is an effective way to let software developers know about issues with their software. 
 Bug reporting can help software developers fix the bug and make the software more reliable.
+
 
